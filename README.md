@@ -1,4 +1,7 @@
-### Hi there 👋 it's quite empty in this README...for now ;)
+### Hi there 👋 I'm Davis
+
+# About Me
+#### I'm a 3rd year Software Engineering Student studying at McMaster University. 
 
 <!--
 **davislenover/davislenover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
