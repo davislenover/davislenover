@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Davis
 
 # About Me
-#### I'm a 3rd year Software Engineering Student studying at McMaster University. Love to program and tinker on projects in my spare time. Aside from programming, I'm big into Photography and Filmmaking :)
+#### I'm a 4th year Software Engineering Student studying at McMaster University. Love to program and tinker on projects in my spare time. Aside from programming, I'm big into Photography and Filmmaking :)
 
 <h2>⚡&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
